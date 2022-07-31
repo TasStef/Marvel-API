@@ -12,7 +12,7 @@ just run the main.exe (only executable in folder). This will generate the json f
 
 
 ### -----Contributing----
-https://github.com/TasStef/Marvel_API_Characters
+https://github.com/TasStef/Marvel-API
 
 
 ### -----Json Files-----
