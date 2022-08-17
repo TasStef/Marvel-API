@@ -12,7 +12,7 @@ def main():
     # Initialize the list
     list = []
 
-    # For each character in the All_Characters.json get the IDs and put them on the list
+    # For each character in the All_Characters.json get the IDs and put them in the list
     for i in range(len(data)):
         list.append(data[i]["id"])
 
