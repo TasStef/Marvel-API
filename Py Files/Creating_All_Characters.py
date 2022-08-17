@@ -20,7 +20,7 @@ def main():
     marvel = Marvel(PUBLIC_KEY=PB_K, PRIVATE_KEY=PR_K)
     characters = marvel.characters
 
-    # Scan all characters using offset until the "results" within "data" all is empty
+    # Scan all characters using offset until the "results" within "data" is empty
     count = 0
     char = characters.all(offset=count)
     file_name = "All_Characters.json"
